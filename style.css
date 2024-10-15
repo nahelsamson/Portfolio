@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif; 
+  background-color: #f4f4f4; 
+  color: #333; 
+}
+
+h1 {
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+  padding: 10px; 
+  border-radius: 5px; 
+}
+
+p {
+  color: black;
+  line-height: 1.6; 
+  margin: 15px 0; 
+}
+
+ul {
+  list-style-position: inside;
+  text-align: center; 
+}
+
+a {
+  color: #007BFF;
+  text-decoration: none; 
+}
+
+a:hover {
+  text-decoration: underline; 
+}
+
+.responsive-image {
+  max-width: 100%; 
+  height: auto; 
+  margin: 20px 0; 
+}
